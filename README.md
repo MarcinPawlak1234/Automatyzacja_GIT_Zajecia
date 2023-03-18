@@ -1,0 +1,2 @@
+# Automatyzacja_GIT_Zajecia
+Automatyzacja_GIT_Zajecia
